@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="header_color">#FFFFFF</color>
+    <color name="text_header">#4f4f4f</color>
+    <color name="blue_back">#006097</color>
+    <color name="row_blue_back">#353942</color>
+    <color name="orange">#FFA500</color>
+    <color name="white_smoke">#F5F5F5</color>
+    <color name="textfield_bg">#EEEEEE</color>
+    <color name="background_grey">#EEF1F4</color>
+    <color name="border_grey">#D5D5D5</color>
+    <color name="font_grey">#8C8C8C</color>
+    <color name="font_black">#3B3B3B</color>
+    <color name="distribution_header_bg">#BECEDA</color>
+    <color name="reject_button_orange">#FF9900</color>
+    <color name="instruction_grey">#4c4c4c</color>
+    <color name="dissabled_font">#CCCCCC</color>
+    <color name="black">#000000</color>
+    <color name="bg_images">#EFEFEF</color>
+    <color name="darkblue">#0099cc</color>
+    <color name="bg_handle_pressed">#a0a0a0</color>
+    <color name="blue">#33b5e5</color>
+    <color name="red">#FF0000</color>
+
+</resources>

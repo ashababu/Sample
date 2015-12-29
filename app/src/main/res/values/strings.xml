@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">F2020LPGDELIVERY</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Freight 2020</string>
+    <string name="shiftdetails">Shift Details</string>
+    <string name="startshift">Start Shift</string>
+    <string name="name">Name:</string>
+    <string name="starttime">Start Time:</string>
+    <string name="shift">Shift:</string>
+    <string name="vehicleid">Vehicle ID:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
